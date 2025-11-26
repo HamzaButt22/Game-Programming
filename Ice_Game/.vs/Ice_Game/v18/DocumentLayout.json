@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "W:\\Game-Programming\\Ice_Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Game-Programming\\Ice_Game\\Assets\\Scripts\\DamagePopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\DamagePopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B52AB53-9176-09C1-F0F3-062EFE97AD4B}|Assembly-CSharp.csproj|w:\\game-programming\\ice_game\\assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B52AB53-9176-09C1-F0F3-062EFE97AD4B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B52AB53-9176-09C1-F0F3-062EFE97AD4B}|Assembly-CSharp.csproj|W:\\Game-Programming\\Ice_Game\\assets\\scripts\\player_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B52AB53-9176-09C1-F0F3-062EFE97AD4B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B52AB53-9176-09C1-F0F3-062EFE97AD4B}|Assembly-CSharp.csproj|w:\\game-programming\\ice_game\\assets\\scripts\\damagetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B52AB53-9176-09C1-F0F3-062EFE97AD4B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damagetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B52AB53-9176-09C1-F0F3-062EFE97AD4B}|Assembly-CSharp.csproj|W:\\Game-Programming\\Ice_Game\\assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B52AB53-9176-09C1-F0F3-062EFE97AD4B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DamagePopup.cs",
-              "DocumentMoniker": "W:\\Game-Programming\\Ice_Game\\Assets\\Scripts\\DamagePopup.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DamagePopup.cs",
-              "ToolTip": "W:\\Game-Programming\\Ice_Game\\Assets\\Scripts\\DamagePopup.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DamagePopup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "W:\\Game-Programming\\Ice_Game\\Assets\\Scripts\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseMenu.cs",
+              "ToolTip": "W:\\Game-Programming\\Ice_Game\\Assets\\Scripts\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseMenu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T17:49:26.679Z",
+              "WhenOpened": "2025-11-26T18:34:39.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player_movement.cs",
+              "DocumentMoniker": "W:\\Game-Programming\\Ice_Game\\Assets\\Scripts\\Player_movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player_movement.cs",
+              "ToolTip": "W:\\Game-Programming\\Ice_Game\\Assets\\Scripts\\Player_movement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player_movement.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAiwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:44:46.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DamageText.cs",
+              "DocumentMoniker": "W:\\Game-Programming\\Ice_Game\\Assets\\Scripts\\DamageText.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DamageText.cs",
+              "ToolTip": "W:\\Game-Programming\\Ice_Game\\Assets\\Scripts\\DamageText.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DamageText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:43:47.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "W:\\Game-Programming\\Ice_Game\\Assets\\Scripts\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthBar.cs",
+              "ToolTip": "W:\\Game-Programming\\Ice_Game\\Assets\\Scripts\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:43:41.76Z",
               "EditorCaption": ""
             }
           ]

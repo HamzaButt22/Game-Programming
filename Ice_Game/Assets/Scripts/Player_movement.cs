@@ -9,6 +9,8 @@ public class Player_movement : MonoBehaviour
     public float moveSpeed = 5f;
     public float jumpForce = 5f;
 
+    int damage = 20;
+
     public float jumpCooldown = 0.3f;
     private float nextJumpTime = 0f;
 
@@ -18,6 +20,8 @@ public class Player_movement : MonoBehaviour
     public HealthBar healthBar;
 
     private Rigidbody2D rb;
+
+    public DamageText damageText;
 
     void Start()
     {
@@ -64,7 +68,8 @@ public class Player_movement : MonoBehaviour
                 if (contact.normal.y > 0.5f)
                 {
                     // Only take damage if touching lava from above
-                    TakeDamage(20);
+                    TakeDamage(damage);
+                    damageText.ShowDamage(damage);
                     break;
                 }
             }
